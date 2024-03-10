@@ -14,6 +14,7 @@ public class ExamPortalBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExamPortalBackendApplication.class, args);
+		System.out.println("hi portal");
 	}
 
 	@Bean
